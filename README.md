@@ -9,8 +9,8 @@ In this course, You will learn Docker in-depth and master Docker skills. After c
 
 ## Scenarios
 
-|   Index | Name                                             | Difficulty   | URL                                                                        |
-|---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                            | Difficulty   | URL                                                                        |
+|---------|-------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Docker Pull Image from Repository             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271485'>Start Lab</a>       |
 |      02 | 🎯 Repository Image Quest                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271484'>Start Challenge</a> |
 |      03 | 📖 Docker Run a Container                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271495'>Start Lab</a>       |
