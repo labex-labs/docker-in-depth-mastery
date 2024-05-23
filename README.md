@@ -9,7 +9,7 @@ In this course, You will learn Docker in-depth and master Docker skills. After c
 
 ## Scenarios
 
-|   Index | Name                                            | Difficulty   | URL                                                                        |
+|   Index | Name                                            | Difficulty   | Practice                                                                   |
 |---------|-------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Docker Pull Image from Repository             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271485'>Start Lab</a>       |
 |      02 | 🎯 Repository Image Quest                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271484'>Start Challenge</a> |
@@ -71,4 +71,9 @@ In this course, You will learn Docker in-depth and master Docker skills. After c
 |      58 | 🎯 Docker Mastery in Gelasian Grasslands         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271502'>Start Challenge</a> |
 |      59 | 📖 Docker Remove Unused Docker Objects           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271481'>Start Lab</a>       |
 |      60 | 🎯 Docker Jungle Expedition                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271480'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 
