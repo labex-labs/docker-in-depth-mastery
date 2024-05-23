@@ -74,6 +74,7 @@ In this course, You will learn Docker in-depth and master Docker skills. After c
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 
