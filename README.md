@@ -1,6 +1,6 @@
 # Docker In-Depth Mastery
 
-![Docker In-Depth Mastery](https://cover-creator.labex.io/docker-in-depth-mastery.png)
+![Docker In-Depth Mastery](https://cover-creator.appbot.io/docker-in-depth-mastery.png)
 
 In this course, You will learn Docker in-depth and master Docker skills. After completing this course, you will be able to use Docker in your daily work, and improve your work efficiency.
 
